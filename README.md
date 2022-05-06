@@ -2,11 +2,11 @@
 
 Hello! My name is Nicholas Lacourse, and I am a 4th-year Ph.D. candidate in Economics at the University of Exeter. 📊
 
-My research primarily uses online experiments to understand better how :
+My research primarily uses online experiments to understand better how people :
 
-1. People process new information about themselves
-2. Discrimination, 
-3. Inequality.
+1. Process new information about themselves
+2. Engage in direct discrimination, 
+3. Perceive inequality and fairness.
 
 I also enjoy learning web development and platform design. So if you have any market-platform services that need tuning, please do not hesitate to reach out.
 
