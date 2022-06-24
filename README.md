@@ -14,4 +14,4 @@ What you will find here on my profile are repositories that contain all informat
 
 All repos are licensed under C00.
 
-You can find my website [here](https://nicholas-lacourse93.github.io/). (Yes, it is deployed off of GitHub pages) 🤙
+You can find my website [here](https://www.nicholaslacourse.com/). (Yes, it is deployed off of GitHub pages) 🤙
