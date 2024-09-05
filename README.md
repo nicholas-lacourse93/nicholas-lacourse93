@@ -1,6 +1,6 @@
 # About Me
 
-Hello! My name is Nicholas Lacourse, and I am a 4th-year Ph.D. candidate in Economics at the University of Exeter. 📊
+Hello! My name is Nicholas Lacourse, and I am a 5th-year Ph.D. candidate in Economics at the University of Exeter. 📊
 
 My research primarily uses online experiments to understand better how people :
 
