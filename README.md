@@ -10,8 +10,8 @@ My research primarily uses online experiments to understand better how people :
 
 I also enjoy learning web development and platform design. So if you have any market-platform services that need tuning, please do not hesitate to reach out.
 
-What you will find here on my profile are repositories that contain all information regarding my currently active working or already published papers. If you have any questions about any of the projects, you are always welcome to reach out.
+When my school embargo is lifted for my research manuscripts you will find on this page ~private~ public repositories to my manuscripts and all data files related to them. 
 
-All repos are licensed under C00.
+All repositories are licensed under C00.
 
 You can find my website [here](https://www.nicholaslacourse.com/). (Yes, it is deployed off of GitHub pages) 🤙
